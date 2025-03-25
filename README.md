@@ -5,7 +5,7 @@
 ![alt](hello-spring-k8s/src/main/resources/github_action2.png)
 
 ### ArgoCD
-
+![alt](hello-spring-k8s/src/main/resources/argoCD.png)
 
 
 ## Spring on Kubernetes
